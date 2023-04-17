@@ -4,10 +4,12 @@ The identification stage is where we test queries against databases to develop a
 ### Executing Search
 1. Execute query in database using agreed upon limiters (date, type of publication, language, etc)
 2. Export results with abstract - it is best to do this as a CSV
-3. Load the CSV into Sheets
-4. Add a variable that is "source" and add the database name
-5. Name the sheet after the databases
-6. Create a new sheet and repeat for all databases that will be used in the review
+3. Load the CSV into a unique Zotero collection
+4. Remove duplicates ... 
+5. Load the CSV into Sheets
+6. Add a variable that is "source" and add the database name
+7. Name the sheet after the databases
+8. Create a new sheet and repeat for all databases that will be used in the review
 
 ### Cleaning Data
 Each database will likely export data in a different structure
